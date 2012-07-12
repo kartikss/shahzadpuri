@@ -9,4 +9,4 @@ $ git init
 $ touch README
 $ git remote add origin https://github.com/kartikss/Hello-World.git
 $ git push origin master
-$ git clone https://github.com/username/Spoon-Knife.git
+$ git clone https://github.com/kartikss/Spoon-Knife.git
